@@ -5,4 +5,4 @@ function saludar(nombre) {
 
 }
 
-this.saludar('David')
+this.saludar('Sampieri')
